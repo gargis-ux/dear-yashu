@@ -46,8 +46,8 @@ const reasons = [
         gif: "gif2.gif"
     },
     {
-        text:"Because you're so much more than just my boyfriend. You're my best friend, my biggest comfort, my favorite person to annoy, and the first person I want to tell everything to.",
-        emoji: "🤍",
+        text: "Because your laugh is contagious! ✨",
+        emoji: "🌟",
         gif: "gif1.gif"
     },
     {
@@ -56,18 +56,8 @@ const reasons = [
         gif: "gif2.gif"
     },
     {
-        text: "Because even on the days when you doubt yourself, I wish you could see yourself through my eyes. You'd finally understand why I admire you so much.",
-        emoji: "🌸",
-        gif: "gif1.gif"
-    },
-    {
-        text:  "Because your smile is still my favorite thing in every picture. It doesn't matter where we are or what we're doing... if you're smiling, the moment instantly becomes my favorite.",
-        emoji: "💚",
-        gif: "gif1.gif"
-    },
-    {
-        text: "Because you make ordinary days feel special. A walk around campus, a chai break, sitting quietly together or simply listening to music... somehow everything feels happier with you beside me.",
-        emoji: "☀️",
+        text: "Because you're simply amazing! Here's to another wonderful year! 🎉",
+        emoji: "🎊",
         gif: "gif1.gif"
     }
     // Add more reasons as needed!
