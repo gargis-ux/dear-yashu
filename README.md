@@ -164,11 +164,13 @@ In `wishes.js`, update the reasons array:
 
 ```javascript
 const reasons = [
-    "Because your smile lights up my day",
-    "Because you always know how to make me laugh",
-    "Because you're the best listener",
-    "Because you give the warmest hugs",
-    "Because you believe in me",
+    "🌻 Because no matter how hard life gets, you still choose kindness. The way you care for people without expecting anything back is one of the many reasons I'm so proud to call you mine".,
+    "🌙 Because you never gave up on us. From silently manifesting me before we even talked, to holding onto us through every little fight... thank you for choosing me again and again.",
+    "🤍 Because you're so much more than just my boyfriend. You're my best friend, my biggest comfort, my favorite person to annoy, and the first person I want to tell everything to.",
+    "✨ Because I'm unbelievably proud of you. Not just for what you've achieved, but for the person you are becoming. You work so hard, care so deeply, and never even realize how inspiring you are.",
+    "🌸 Because even on the days when you doubt yourself, I wish you could see yourself through my eyes. You'd finally understand why I admire you so much.",
+    "💚 Because your smile is still my favorite thing in every picture. It doesn't matter where we are or what we're doing... if you're smiling, the moment instantly becomes my favorite.",
+    "☀️ Because you make ordinary days feel special. A walk around campus, a chai break, sitting quietly together or simply listening to music... somehow everything feels happier with you beside me."
     // Add more reasons...
 ];
 ```
