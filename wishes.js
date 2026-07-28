@@ -36,28 +36,38 @@ if (localStorage.getItem('musicPlaying') === 'true') {
 // - gif: Animation file to show (optional, use animation-1.gif or animation-2.gif)
 const reasons = [
     {
-        text: "Because you always know how to make me smile! 💖",
+        text: "Because no matter how hard life gets, you still choose kindness. The way you care for people without expecting anything back is one of the many reasons I'm so proud to call you mine.",
+        emoji: "🌻",
+        gif: "gif1.gif"
+    },
+    {
+        text: "Because you never gave up on us. From silently manifesting me before we even talked, to holding onto us through every little fight... thank you for choosing me again and again.",
+        emoji: "🌙",
+        gif: "gif2.gif"
+    },
+    {
+        text:"Because you're so much more than just my boyfriend. You're my best friend, my biggest comfort, my favorite person to annoy, and the first person I want to tell everything to.",
+        emoji: "🤍",
+        gif: "gif1.gif"
+    },
+    {
+        text: "Because I'm unbelievably proud of you. Not just for what you've achieved, but for the person you are becoming. You work so hard, care so deeply, and never even realize how inspiring you are.",
         emoji: "✨",
-        gif: "gif1.gif"
-    },
-    {
-        text: "Because you're the best listener I know! 🌸",
-        emoji: "💫",
         gif: "gif2.gif"
     },
     {
-        text: "Because your laugh is contagious! ✨",
-        emoji: "🌟",
+        text: "Because even on the days when you doubt yourself, I wish you could see yourself through my eyes. You'd finally understand why I admire you so much.",
+        emoji: "🌸",
         gif: "gif1.gif"
     },
     {
-        text: "Because you make every moment special! 🎂",
-        emoji: "💖",
-        gif: "gif2.gif"
+        text:  "Because your smile is still my favorite thing in every picture. It doesn't matter where we are or what we're doing... if you're smiling, the moment instantly becomes my favorite.",
+        emoji: "💚",
+        gif: "gif1.gif"
     },
     {
-        text: "Because you're simply amazing! Here's to another wonderful year! 🎉",
-        emoji: "🎊",
+        text: "Because you make ordinary days feel special. A walk around campus, a chai break, sitting quietly together or simply listening to music... somehow everything feels happier with you beside me.",
+        emoji: "☀️",
         gif: "gif1.gif"
     }
     // Add more reasons as needed!
